@@ -77,4 +77,4 @@ Default web root:
 ## checking jenkins
 testing the jenkins
 
-confifuration works fine
+confifuration works fine again today
