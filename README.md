@@ -76,4 +76,4 @@ Default web root:
 
 ## checking jenkins
 
-checking jenkins commit changes
+checking jenkins commit changes commit
