@@ -76,3 +76,5 @@ Default web root:
 
 ## checking jenkins
 testing the jenkins
+
+confifuration works fine
